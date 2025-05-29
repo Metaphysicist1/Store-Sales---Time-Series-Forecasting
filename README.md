@@ -1,6 +1,10 @@
-# Dataset Description
+# Project Solution
 
-In this competition, you will predict sales for the thousands of product families sold at Favorita stores located in Ecuador. The training data includes dates, store and product information, whether that item was being promoted, as well as the sales numbers. Additional files include supplementary information that may be useful in building your models.
+## Overview
+
+This project aims to predict sales for various product families sold at Favorita stores in Ecuador. By leveraging historical sales data and additional contextual information, we develop a predictive model to forecast future sales accurately. The solution involves analyzing time-series data, incorporating external factors such as promotions, holidays, and economic indicators to enhance prediction accuracy.
+
+[Kaggle Competition Page](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data?select=holidays_events.csv)
 
 ## File Descriptions and Data Field Information
 
